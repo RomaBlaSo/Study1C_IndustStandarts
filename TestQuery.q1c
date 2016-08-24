@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<querylist>
+	<query name="Таб">
+		<text>ВЫБРАТЬ
+	Таб.Поле1 КАК Поле1,
+	Таб.Поле2 КАК Поле2
+ИЗ
+	втТаб КАК Таб
+</text>
+	</query>
+</querylist>
